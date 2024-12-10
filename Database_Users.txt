@@ -1,0 +1,8 @@
+id(PK,int,not null)
+mid (varchar (250),not null)
+mname(varchar (250),not null)
+mnumber (varchar (250),not null)
+mDate (varchar (250),not null)
+eDate (varchar (250),not null)
+quantity (bigint,not null)
+perUnit (bigint,not null)
