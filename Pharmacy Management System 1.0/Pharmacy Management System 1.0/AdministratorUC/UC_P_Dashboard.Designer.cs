@@ -2,7 +2,6 @@
 {
     partial class UC_P_Dashboard
     {
-        
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
