@@ -11,6 +11,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace Pharmacy_Management_System_1._0.AdministratorUC
 {
+
     public partial class UC_ViewUser : UserControl
     {
         function fn = new function();
