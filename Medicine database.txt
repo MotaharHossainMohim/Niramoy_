@@ -1,0 +1,8 @@
+id(PK,int,not null)
+userRole (varchar (50),not null)
+name (varchar (250),not null)
+dob (varchar (250),not null)
+mobile (bigint, not null)
+email (varchar (250),not null)
+username (varchar (250),not null)
+pass (varchar (250), not null)
