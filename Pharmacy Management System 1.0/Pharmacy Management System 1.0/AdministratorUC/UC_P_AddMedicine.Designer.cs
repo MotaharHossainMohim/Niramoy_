@@ -2,7 +2,6 @@
 {
     partial class UC_P_AddMedicine
     {
-        /// <summary> 
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
